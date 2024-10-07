@@ -36,3 +36,6 @@
 
 ## Задание 2 - Декомпозиция веб-приложения на Django.
 
+Ссылка на схему - [Google Drive](https://drive.google.com/file/d/11qzCbMqmMIY-nrL7mrk6Fd-wCfizBzUr/view?usp=sharing)
+
+Также схема лежит в [корне репозитория](Home Work.drawio) 
